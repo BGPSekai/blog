@@ -1,26 +1,35 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
-  "genre": "Insert a schema.org genre",
-  "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
-  "sendWebVitals": false,
-  "feed": {
-    "subtitle": "Subtitle. Update me.",
-    "filename": "feed.xml",
-    "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
-  },
-  "jsonfeed": {
-    "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
-  },
-  "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
-  },
-  "publisher": {
-    "name": "Publisher name. Update me."
-  }
+  "title": "柏狗屁世界",
+  "description": "你的鳥世界",
+  "logo": "https://blog.bgpsekai.club/content/images/2019/08/logo.png",
+  "icon": null,
+  "cover_image": "https://casper.ghost.org/v1.0.0/images/blog-cover.jpg",
+  "facebook": null,
+  "twitter": null,
+  "locale": "zh_tw",
+  "navigation": [
+    {
+      "label": "首頁",
+      "url": "/"
+    },
+    {
+      "label": "巴哈彈幕轉 ASS",
+      "url": "/baha-danmu-to-ass/"
+    }
+  ],
+  "secondary_navigation": [],
+  "meta_title": null,
+  "meta_description": "紀錄前端、後端、以及一些日常生活，以及時不時開箱",
+  "og_image": null,
+  "og_title": null,
+  "og_description": null,
+  "twitter_image": null,
+  "twitter_title": null,
+  "twitter_description": null,
+  "members_support_address": "noreply",
+  "url": "https://blog.bgpsekai.club",
+  "ghost_head": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-51767762-4\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-51767762-4');\n</script>\n<script async custom-element=\"amp-auto-ads\" src=\"https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js\">\n</script>",
+  "ghost_foot": "<script data-ad-client=\"ca-pub-9488921689181013\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<script>\n     (adsbygoogle = window.adsbygoogle || []).push({});\n</script>",
+  "active_timezone": "Asia/Singapore",
+  "default_locale": "zh_tw"
 }
