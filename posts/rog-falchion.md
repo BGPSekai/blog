@@ -9,11 +9,9 @@ slug: rog-falchion
 layout: layouts/post.njk
 ---
 
-<p> </p>
-
 首先這把鍵盤在出廠的韌體版本有bug，無線喚醒的時候會調整到音量鍵，只要是2020年10月份的版本，都會有這個問題，用了armoury crate更新後就沒有這問題。
 
-<!--kg-card-begin: html--><video src="https://i.imgur.com/ro82Aw4.mp4" controls></video><!--kg-card-end: html-->
+<video src="https://i.imgur.com/ro82Aw4.mp4" controls></video>
 
 主要就來講這隻鍵盤的體驗心得。
 

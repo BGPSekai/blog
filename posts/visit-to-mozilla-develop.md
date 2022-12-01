@@ -27,7 +27,7 @@ layout: layouts/post.njk
 
 優化的部分則包含 CSS 多線程處理（但渲染父子順序沒有改變）、Photon 的渲染優化（將 HTML 解析後至 GPU 更新渲染）、Servo 引擎使用、ASM 支援、網路權重優化，JS 後端權重分配，還有很多細節我也不知道？
 
-[![](/img/content/images/2017/09/wp-image-1515047450.jpg)](/img/content/images/2017/09/wp-image-1515047450.jpg)
+![](/img/content/images/2017/09/wp-image-1515047450.jpg)
 
 ### 中午
 
@@ -35,13 +35,15 @@ layout: layouts/post.njk
 
 至於便當的部分，還蠻高級的，量也頗多，賺 ( X )
 
-[![](/img/content/images/2017/09/wp-image-1040343933.jpg)](/img/content/images/2017/09/wp-image-1040343933.jpg)
+![](/img/content/images/2017/09/wp-image-1040343933.jpg)
 
 ### 午餐飯後
 
-[![](/img/content/images/2017/09/wp-image-942230857.jpg)](/img/content/images/2017/09/wp-image-942230857.jpg)
+![](/img/content/images/2017/09/wp-image-942230857.jpg)
 
-[![](/img/content/images/2017/09/wp-image-1493153281.jpg)](/img/content/images/2017/09/wp-image-1493153281.jpg)吃完之後該來運動一下了，在中央會廳有擺了四個區塊攤位，去參觀互動一下可以換貼紙，集滿四張可以去轉蛋換獎品，攤位的部分有 VR 跟 webGL 2 可以試玩、Extention 相關開發、Firefox 也實作付款 API Demo，Web RTC 影像應用，Firefox Nightly 跟 Firefox Focus 推廣。
+![](/img/content/images/2017/09/wp-image-1493153281.jpg)
+
+吃完之後該來運動一下了，在中央會廳有擺了四個區塊攤位，去參觀互動一下可以換貼紙，集滿四張可以去轉蛋換獎品，攤位的部分有 VR 跟 webGL 2 可以試玩、Extention 相關開發、Firefox 也實作付款 API Demo，Web RTC 影像應用，Firefox Nightly 跟 Firefox Focus 推廣。
 
 然後在 Firefox Focus 不小心就被嘴到了，因為發現這瀏覽器就是個隱私瀏覽器，什麼複雜功能都沒有，要分享資訊需要開其他瀏覽器，我就嘴嘴的問為何不做個分享按鈕，在覺得可以分享個人資訊時按下那個按鈕就好了啊，然後講解人員講解了一陣子後說了一句『我們的專案都有開源，你也可以去上面貢獻一下XD』，然後我就只能 XD 的說句我盡量然後默默撤離，差點忘記我只是個廢物，只能提供意見沒資格嘴人
 
@@ -62,12 +64,16 @@ layout: layouts/post.njk
 最後則是 Http2 ，用蠻好懂得方式說明了 HTTP 的 Ping Pong 模型與 TCP 的問題 ( 頭小身體大 )，早期解決方案用一堆 connection ，然後一堆問題，學了一下計概，然後說明了 HTTP2 的多線程功能，變成只需要1個 connection，很重要！然後還有 HTTP2 的權重讀取、取消功能，不用像 HTTP 取消需要斷開魂結，AND HTTP2 搭配快取 + TCP 原理 Combo 加成，猛，最後小講了一下可能是未來規範的 QUIC ，是 HTTP2 + UDP 的實作的樣子，不再受限於 TCP 限制，希望會很猛。
 
 最後附上戰利品
-[![](/img/content/images/2017/09/wp-image-1841415936.jpg)](/img/content/images/2017/09/wp-image-1841415936.jpg) [![](/img/content/images/2017/09/wp-image-1171265608.jpg)](/img/content/images/2017/09/wp-image-1171265608.jpg)總之算是一次蠻有趣的經驗，雖然完全沒有膽量跟能力去問問題，不過這次參觀真的了解到了不少的東西和社群的力量啊～
+![](/img/content/images/2017/09/wp-image-1841415936.jpg)
+
+![](/img/content/images/2017/09/wp-image-1171265608.jpg)
+
+總之算是一次蠻有趣的經驗，雖然完全沒有膽量跟能力去問問題，不過這次參觀真的了解到了不少的東西和社群的力量啊～
 
 啊還有活潑吉祥物
 
-[![](/img/content/images/2017/09/wp-image-229633862.jpg)](/img/content/images/2017/09/wp-image-229633862.jpg)
+![](/img/content/images/2017/09/wp-image-229633862.jpg)
 
-[![](/img/content/images/2017/09/wp-image-1865150270.jpg)](/img/content/images/2017/09/wp-image-1865150270.jpg)
+![](/img/content/images/2017/09/wp-image-1865150270.jpg)
 
-[![](/img/content/images/2017/09/wp-image-1785223282.jpg)](/img/content/images/2017/09/wp-image-1785223282.jpg)
+![](/img/content/images/2017/09/wp-image-1785223282.jpg)

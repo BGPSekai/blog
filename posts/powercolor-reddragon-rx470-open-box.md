@@ -13,8 +13,11 @@ layout: layouts/post.njk
 
 總之 先上圖
 
-[![](/img/content/images/2016/12/PC100227-2-200x200.jpg)](https://bgpsekai.thisistap.com/%e6%95%97%e5%ae%b6%e6%97%a5%e8%a8%98/2016/12/%e9%96%8b%e7%ae%b1-%e6%92%bc%e8%a8%8a-rx470-%e7%b4%85%e9%be%8d%e5%96%ae%e9%a2%a8%e6%89%87%e9%96%8b%e7%ae%b1%e5%8f%8a%e4%b8%8d%e5%b0%88%e6%a5%ad%e6%b8%ac%e8%a9%a6/attachment/olympus-digital-camera-5/)
-[![](/img/content/images/2016/12/PC100231-200x200.jpg)](https://bgpsekai.thisistap.com/%e6%95%97%e5%ae%b6%e6%97%a5%e8%a8%98/2016/12/%e9%96%8b%e7%ae%b1-%e6%92%bc%e8%a8%8a-rx470-%e7%b4%85%e9%be%8d%e5%96%ae%e9%a2%a8%e6%89%87%e9%96%8b%e7%ae%b1%e5%8f%8a%e4%b8%8d%e5%b0%88%e6%a5%ad%e6%b8%ac%e8%a9%a6/attachment/olympus-digital-camera-4/) 包裝非常的簡單 跟小星星 rx460 比起來的話連金手指跟 port 保護殼都沒了 不過個人是還 ok
+![](/img/content/images/2016/12/PC100227-2-200x200.jpg)
+
+![](/img/content/images/2016/12/PC100231-200x200.jpg)
+
+包裝非常的簡單 跟小星星 rx460 比起來的話連金手指跟 port 保護殼都沒了 不過個人是還 ok
 
 上機時真的是被我的小小機殼卡死 花了好一段時間終於塞進去了
 
@@ -28,7 +31,11 @@ layout: layouts/post.njk
 
 ( 控制軟體就用以前沒有移掉的 AfterBurner 來測測吧 )
 
-[![](/img/content/images/2016/12/15397773_1195258023899877_410092693_o-200x200.jpg)](https://bgpsekai.thisistap.com/%e6%95%97%e5%ae%b6%e6%97%a5%e8%a8%98/2016/12/%e9%96%8b%e7%ae%b1-%e6%92%bc%e8%a8%8a-rx470-%e7%b4%85%e9%be%8d%e5%96%ae%e9%a2%a8%e6%89%87%e9%96%8b%e7%ae%b1%e5%8f%8a%e4%b8%8d%e5%b0%88%e6%a5%ad%e6%b8%ac%e8%a9%a6/attachment/15397773_1195258023899877_410092693_o/)[![](/img/content/images/2016/12/15423625_1195284983897181_1834699540_n-1-200x200.jpg)](https://bgpsekai.thisistap.com/%e6%95%97%e5%ae%b6%e6%97%a5%e8%a8%98/2016/12/%e9%96%8b%e7%ae%b1-%e6%92%bc%e8%a8%8a-rx470-%e7%b4%85%e9%be%8d%e5%96%ae%e9%a2%a8%e6%89%87%e9%96%8b%e7%ae%b1%e5%8f%8a%e4%b8%8d%e5%b0%88%e6%a5%ad%e6%b8%ac%e8%a9%a6/attachment/15423625_1195284983897181_1834699540_n-2/)[![](/img/content/images/2016/12/15451101_1195294957229517_156875375_n-1-200x200.jpg)](https://bgpsekai.thisistap.com/%e6%95%97%e5%ae%b6%e6%97%a5%e8%a8%98/2016/12/%e9%96%8b%e7%ae%b1-%e6%92%bc%e8%a8%8a-rx470-%e7%b4%85%e9%be%8d%e5%96%ae%e9%a2%a8%e6%89%87%e9%96%8b%e7%ae%b1%e5%8f%8a%e4%b8%8d%e5%b0%88%e6%a5%ad%e6%b8%ac%e8%a9%a6/attachment/15451101_1195294957229517_156875375_n-2/)基本上待機和原本的 rx460 差不多 差在 470 可以風扇不轉 待機溫度還可以接受
+![](/img/content/images/2016/12/15397773_1195258023899877_410092693_o-200x200.jpg)
+![](/img/content/images/2016/12/15423625_1195284983897181_1834699540_n-1-200x200.jpg)
+
+![](/img/content/images/2016/12/15451101_1195294957229517_156875375_n-1-200x200.jpg)
+基本上待機和原本的 rx460 差不多 差在 470 可以風扇不轉 待機溫度還可以接受
 
 接下來 720p FM 測試一下
 
@@ -42,7 +49,11 @@ layout: layouts/post.njk
 
 先來一般中等設定 ( FULL HD 視窗化 垂直同步開 細節懶得說明
 
-[![](/img/content/images/2016/12/15419242_1197740943651585_199527274_o-200x200.jpg)](https://bgpsekai.thisistap.com/%e6%95%97%e5%ae%b6%e6%97%a5%e8%a8%98/2016/12/%e9%96%8b%e7%ae%b1-%e6%92%bc%e8%a8%8a-rx470-%e7%b4%85%e9%be%8d%e5%96%ae%e9%a2%a8%e6%89%87%e9%96%8b%e7%ae%b1%e5%8f%8a%e4%b8%8d%e5%b0%88%e6%a5%ad%e6%b8%ac%e8%a9%a6/attachment/15419242_1197740943651585_199527274_o/)[![](/img/content/images/2016/12/15502960_1197742780318068_570206121_o-200x200.jpg)](https://bgpsekai.thisistap.com/%e6%95%97%e5%ae%b6%e6%97%a5%e8%a8%98/2016/12/%e9%96%8b%e7%ae%b1-%e6%92%bc%e8%a8%8a-rx470-%e7%b4%85%e9%be%8d%e5%96%ae%e9%a2%a8%e6%89%87%e9%96%8b%e7%ae%b1%e5%8f%8a%e4%b8%8d%e5%b0%88%e6%a5%ad%e6%b8%ac%e8%a9%a6/attachment/15502960_1197742780318068_570206121_o/)想也知道輕輕鬆鬆 60附近擺動
+![](/img/content/images/2016/12/15419242_1197740943651585_199527274_o-200x200.jpg)
+
+![](/img/content/images/2016/12/15502960_1197742780318068_570206121_o-200x200.jpg)
+
+想也知道輕輕鬆鬆 60附近擺動
 
 接下來就要來玩玩壓電壓開全畫質可以挑戰到啥程度拉~
 
