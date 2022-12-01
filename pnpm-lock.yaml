@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@11ty/eleventy': ^1.0.0
+  '@11ty/eleventy': 1.0.2
   '@11ty/eleventy-navigation': ^0.1.3
   '@11ty/eleventy-plugin-rss': ^1.0.7
   '@11ty/eleventy-plugin-syntaxhighlight': ^3.0.1
@@ -65,8 +65,8 @@ dependencies:
   twitter: 1.7.1
 
 devDependencies:
-  '@11ty/eleventy': 1.0.1
-  '@11ty/eleventy-navigation': 0.1.6_@11ty+eleventy@1.0.1
+  '@11ty/eleventy': 1.0.2
+  '@11ty/eleventy-navigation': 0.1.6_@11ty+eleventy@1.0.2
   '@11ty/eleventy-plugin-rss': 1.2.0
   '@11ty/eleventy-plugin-syntaxhighlight': 3.2.2
   eleventy-plugin-local-images: 0.4.1
@@ -88,12 +88,12 @@ packages:
     resolution: {integrity: sha512-5R+DsT9LJ9tXiSQ4y+KLFppCkQyXhzAm1AIuBWE/sbU0hSXY5pkhoqQYEcPJQFg/nglL+wD55iv2j+7O96UAvg==}
     dev: true
 
-  /@11ty/eleventy-navigation/0.1.6_@11ty+eleventy@1.0.1:
+  /@11ty/eleventy-navigation/0.1.6_@11ty+eleventy@1.0.2:
     resolution: {integrity: sha512-ZGZebFEEDiJoS7BvxxiWrKdsCodNkqCsQ7S75IIvaPynHvojqcCVtS4uZk54K+LC+YqL5+T716TlsMG6Mc2p0g==}
     peerDependencies:
       '@11ty/eleventy': '>=0.7.0'
     dependencies:
-      '@11ty/eleventy': 1.0.1
+      '@11ty/eleventy': 1.0.2
       dependency-graph: 0.8.1
     dev: true
 
@@ -121,8 +121,8 @@ packages:
       normalize-path: 3.0.0
     dev: true
 
-  /@11ty/eleventy/1.0.1:
-    resolution: {integrity: sha512-2fJDHVBkRr1SB7CqBexwoLdiOGUE0f22O+Ie1TT/FI65XQZWshgHVZzvmZfmtKvQW4qtaC/FuJG3wMxkXfel7w==}
+  /@11ty/eleventy/1.0.2:
+    resolution: {integrity: sha512-03ER4zukR6BgwppI5DHRE11lc+8B0fWsBrqacVWo3o49QkdEFXnEWjhyI9qd9LrPlgQHK2/MYyxuOvNwecyCLQ==}
     engines: {node: '>=12'}
     hasBin: true
     dependencies:
@@ -143,7 +143,7 @@ packages:
       handlebars: 4.7.7
       is-glob: 4.0.3
       kleur: 4.1.5
-      liquidjs: 9.39.2
+      liquidjs: 9.43.0
       lodash: 4.17.21
       luxon: 2.5.0
       markdown-it: 12.3.2
@@ -2276,8 +2276,8 @@ packages:
       uc.micro: 1.0.6
     dev: true
 
-  /liquidjs/9.39.2:
-    resolution: {integrity: sha512-7fdd8hn7U/FUANGWaBbF41LmsRS40uXj/jFldyddYqgLDGMyZSYJsajOvZIZGkAxJdUYbZksrHRU4Q8kg8sTPg==}
+  /liquidjs/9.43.0:
+    resolution: {integrity: sha512-qZZuL5Emja2UgCqiLewiw9bvwZQwm19TTGFxDkonVzB4YSTOZ8tuTVo/7Uu/AeW1cL2Qb/at3DSoV8wwyFXQCw==}
     engines: {node: '>=4.8.7'}
     hasBin: true
     dev: true
